@@ -9,3 +9,7 @@ body{
 
     border: 5px solid blue;
 }
+
+#contenido{
+    font-family: 'Courier New', Courier, monospace;
+}
