@@ -13,3 +13,6 @@ body{
 #contenido{
     font-family: 'Courier New', Courier, monospace;
 }
+#cabecera{
+    background-color: aquamarine;
+}
