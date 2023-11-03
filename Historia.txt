@@ -5,9 +5,6 @@ tengo 25 años y soy Colombiano
 Soy ingeniero electronico
 
 Main 1
-<<<<<<< HEAD
 Main 2
-=======
 
 Experimento 1
->>>>>>> 38ad1f7 (ex 1)
