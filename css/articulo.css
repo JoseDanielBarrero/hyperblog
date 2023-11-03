@@ -33,8 +33,12 @@ body{
     max-height: 24px;
 }
 #footer {
-     align-content: center;
-     background-color: rgb(2, 0, 128);
-     color: white;
-     padding: 5px;
+    align-content: center;
+    background-color: rgb(2, 0, 128);
+    color: white;
+    padding: 10px;
+}
+
+.title {
+    color: rgb(2, 0, 128);
 }
